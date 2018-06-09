@@ -13,8 +13,8 @@ It's a cryptic crossword, duh!
 ### Set up AWS CLI
 1. `brew install awscli`
 2. `aws configure`
-    a. Enter in Access Key ID and Secret Access Key
-    b. Default region name: `us-east-2`
+    i. Enter in Access Key ID and Secret Access Key
+    ii. Default region name: `us-east-2`
 
 ## DEPLOYING
 `./scripts/deploy_production.sh`

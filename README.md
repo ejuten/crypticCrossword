@@ -15,6 +15,7 @@ It's a cryptic crossword, duh!
 2. `aws configure`
     1. Enter in Access Key ID and Secret Access Key
     2. Default region name: `us-east-2`
+3. Have the AWS owner add your newly created account into the appropriate bucket
 
 ## DEPLOYING
 `./scripts/deploy_production.sh`
